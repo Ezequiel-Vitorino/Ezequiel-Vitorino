@@ -1,16 +1,20 @@
-### Hi there 👋
+Sejam bem vindos :sunglasses:;
 
-<!--
-**Ezequiel-Vitorino/Ezequiel-Vitorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou programador Front End, apaixonado por idiomas e tecnologia, atualmente aprendendo e desenvolvendo projetos com:
+<br>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br>
+<br>
+<p>Vamos nos conectar no Linkeding:</p>
+<a href="www.linkedin.com/in/ezequiel-dos-reis-vitorino-78a269106"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
+![Ezequiel Stats](https://github-readme-stats.vercel.app/api?username=Ezequiel-Vitorino&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
