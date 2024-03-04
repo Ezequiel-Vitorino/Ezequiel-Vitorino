@@ -1,6 +1,6 @@
 Seja bem vindo! :sunglasses:
 <br>
-Welcome!:sunglasses:
+Welcome! :sunglasses:
 
 Sou programador Front End, apaixonado por idiomas e tecnologia, atualmente aprendendo e desenvolvendo projetos com:
 <br>
