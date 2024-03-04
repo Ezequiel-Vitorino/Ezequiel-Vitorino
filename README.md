@@ -15,6 +15,7 @@ Sou programador Front End, apaixonado por idiomas e tecnologia, atualmente apren
 <br>
 <br>
 <br>
+<br>
 
 ![Ezequiel Stats](https://github-readme-stats.vercel.app/api?username=Ezequiel-Vitorino&show_icons=true&theme=transparent)
 
